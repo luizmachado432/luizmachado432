@@ -10,7 +10,7 @@
 
   ##
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/luiz-felipe-machado-athayde-0a1172264/)]
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/luiz-felipe-machado-athayde-0a1172264/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luiz__athayde/)
 
 #### Estudante de Análise e Desenvolvimento de Sistemas em transição de carreira com interesse pela área de backend. 
