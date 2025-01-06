@@ -15,4 +15,4 @@
 <a href = "mailto: luizmachadoathayde@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 #### Estudante de Ciências da computação com interesse pela área de backend. 
 
-Experiência em desenvolver projetos próprios utilizando Python e suas tecnologias.
+Experiência em desenvolver projetos próprios utilizando Python e java suas tecnologias.
