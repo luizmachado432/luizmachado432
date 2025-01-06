@@ -13,6 +13,6 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-felipe-machado-athayde-0a1172264/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luiz__athayde/)
 <a href = "mailto: luizmachadoathayde@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-#### Estudante de Análise e Desenvolvimento de Sistemas em transição de carreira com interesse pela área de backend. 
+#### Estudante de Ciências da computação com interesse pela área de backend. 
 
 Experiência em desenvolver projetos próprios utilizando Python e suas tecnologias.
