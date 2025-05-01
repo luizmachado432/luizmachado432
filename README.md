@@ -1,11 +1,11 @@
 >## Luiz Felipe
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="GripkaPython" height="50" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg">
-  <img align="center" alt="GripkaPandas" height="50" width="60" src="https://github.com/gripka/icones_skill/blob/main/icones/Pandas.svg">
-  <img align="center" alt="GripkaDjango" height="50" width="60" src="https://github.com/gripka/icones_skill/blob/main/icones/Django.svg">
-  <img align="center" alt="GripkaJupyter" height="50" width="60" src="https://github.com/gripka/icones_skill/blob/main/icones/Jupyter.svg">
-  <img align="center" alt="Gripkajava" height="50" width="60" src="https://github.com/luizmachado432/icones_skill/blob/main/icones/java.svg">
+  <img align="center" alt="luizPython" height="50" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg">
+  <img align="center" alt="luizPandas" height="50" width="60" src="https://github.com/gripka/icones_skill/blob/main/icones/Pandas.svg">
+  <img align="center" alt="luizDjango" height="50" width="60" src="https://github.com/gripka/icones_skill/blob/main/icones/Django.svg">
+  <img align="center" alt="luizJupyter" height="50" width="60" src="https://github.com/gripka/icones_skill/blob/main/icones/Jupyter.svg">
+  <img align="center" alt="luizjava" height="50" width="60" src="https://github.com/luizmachado432/icones_skill/blob/main/icones/java.svg">
 </div>
 
   ##
