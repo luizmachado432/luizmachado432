@@ -5,7 +5,7 @@
   <img align="center" alt="GripkaPandas" height="50" width="60" src="https://github.com/gripka/icones_skill/blob/main/icones/Pandas.svg">
   <img align="center" alt="GripkaDjango" height="50" width="60" src="https://github.com/gripka/icones_skill/blob/main/icones/Django.svg">
   <img align="center" alt="GripkaJupyter" height="50" width="60" src="https://github.com/gripka/icones_skill/blob/main/icones/Jupyter.svg">
-  
+  <img align="center" alt="GripkaJupyter" height="50" width="60" src="https://github.com/gripka/icones_skill/blob/main/icones/java.svg">
 </div>
 
   ##
