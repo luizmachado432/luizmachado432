@@ -6,7 +6,7 @@
   <img align="center" alt="luizDjango" height="50" width="60" src="https://github.com/gripka/icones_skill/blob/main/icones/Django.svg">
   <img align="center" alt="luizJupyter" height="50" width="60" src="https://github.com/gripka/icones_skill/blob/main/icones/Jupyter.svg">
   <img align="center" alt="luizjava" height="50" width="60" src="https://github.com/luizmachado432/icones_skill/blob/main/icones/java.svg">
-  <img align="center" alt="luizjava" height="50" width="60" src="https://github.com/luizmachado432/icones_skill/blob/main/icones/OIP.webp">
+  <img align="center" alt="luizjava" height="50" width="60" src="https://github.com/luizmachado432/icones_skill/blob/main/icones/OIP (1).webp">
 </div>
 
   ##
