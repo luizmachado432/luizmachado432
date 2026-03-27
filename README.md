@@ -7,7 +7,7 @@
   <img align="center" alt="luizJupyter" height="50" width="60" src="https://github.com/gripka/icones_skill/blob/main/icones/Jupyter.svg">
   <img align="center" alt="luizjava" height="50" width="60" src="https://github.com/luizmachado432/icones_skill/blob/main/icones/java.svg">
   <img align="center" alt="luizjava" height="50" width="60" src="https://github.com/luizmachado432/icones_skill/blob/main/icones/logo-css-3-512.png">
-  <img align="center" alt="luizjava" height="60" width="80" src="https://github.com/luizmachado432/icones_skill/blob/main/icones/C++-Logo.wine.svg">
+  <img align="center" alt="luizjava" height="80" width="100" src="https://github.com/luizmachado432/icones_skill/blob/main/icones/C++-Logo.wine.svg">
 </div>
 
   ##
