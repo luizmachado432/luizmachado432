@@ -4,7 +4,6 @@
   <img align="center" alt="luizPython" height="50" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg">
   <img align="center" alt="luizPandas" height="50" width="60" src="https://github.com/gripka/icones_skill/blob/main/icones/Pandas.svg">
   <img align="center" alt="luizDjango" height="50" width="60" src="https://github.com/gripka/icones_skill/blob/main/icones/Django.svg">
-  <img align="center" alt="luizJupyter" height="50" width="60" src="https://github.com/gripka/icones_skill/blob/main/icones/Jupyter.svg">
   <img align="center" alt="luizjava" height="50" width="60" src="https://github.com/luizmachado432/icones_skill/blob/main/icones/java.svg">
   <img align="center" alt="luizjava" height="50" width="60" src="https://github.com/luizmachado432/icones_skill/blob/main/icones/logo-css-3-512.png">
   <img align="center" alt="luizjava" height="90" width="100" src="https://github.com/luizmachado432/icones_skill/blob/main/icones/C++-Logo.wine.svg">
